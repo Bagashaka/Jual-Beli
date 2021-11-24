@@ -25,4 +25,4 @@ for item_name in items:
         print('Uang Anda tidak mencukupi')
         print('Anda tidak dapat membeli ' + item_name + ' sebanyak itu')
 
-print('Uang Anda tinggal Rp.' + str(money))
+print('Uang Anda sisa Rp.' + str(money))
